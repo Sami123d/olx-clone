@@ -274,3 +274,55 @@ ul li a:hover{
     top: 0;
 
 }
+
+.upper-footer{
+    background-color: #f7f8f8;
+    height: 170px;
+}
+
+section  span{
+    font-weight: 700;
+    font-size: 11px;
+    color: #002F34;
+}
+section ul li{
+    color: #002F34A3;
+    font-size: 10px;
+    padding-top: 3px;
+}
+.padd-upper-footer{
+    padding: 18px;
+}
+.main-upper-footer{
+    display: flex;
+    justify-content: space-between;
+}
+section > .play-store-iconss{
+    padding-top: 25px;
+}
+.lower-footer{
+    background-color: #002f34;
+}
+
+.cntnt span{
+    font-weight: bold;
+}
+.cntnt{
+    color: white;
+    height: 40px;
+   text-align: right;
+   padding-top: 14px;
+   padding-bottom: 10px;
+   padding-right: 22px;
+   font-size: 10px;
+   
+}
+
+.ad-bfr-footer{
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+}
+.ad-bfr-footer img{
+    
+}
