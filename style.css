@@ -246,7 +246,7 @@ ul li a:hover{
     width: 220px;
     height: 200px;
     /* background-color: blueviolet; */
-    
+    cursor: pointer;
     border: 1px solid gray;
     position: relative;
     top: 0;
@@ -257,7 +257,7 @@ ul li a:hover{
     width: 220px;
     height: 200px;
     /* background-color: blueviolet; */
-    
+    cursor: pointer;
     border: 1px solid gray;
     position: relative;
     top: 0;
@@ -268,7 +268,7 @@ ul li a:hover{
     width: 220px;
     height: 200px;
     /* background-color: blueviolet; */
-    
+    cursor: pointer;
     border: 1px solid gray;
     position: relative;
     top: 0;
